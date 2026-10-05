@@ -1,2 +1,18 @@
 # demoprojexct
 project is anbout voting according to age(18)
+package supriya;
+
+
+	public class voting{
+		public static void main(String[] args) {
+			int age = 15;
+			if(age>=18) {
+			System.out.println("you are eligible to vote");
+			}else {
+			   System.out.println("you are not eligible to vote");
+		}
+	  }
+	}
+
+	
+
